@@ -16,8 +16,8 @@ The project has been refactored into a more modular package structure:
   - `utils/` - Utility functions
     - `performance.py` - Performance monitoring
   - `main.py` - Main program entry
-- `data/` - Data directory
-  - `corpus/` - Corpus files
+- `data/` - Data directory. We didn't upload this folder.
+  - `corpus/` - Corpus files. Put HillaryEmails here.
   - `indices/` - Index files
     - `compression_samples/` - Index samples with different compression techniques
 - `run.py` - Simple run script
